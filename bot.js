@@ -242,7 +242,7 @@ function isYoutube(str) {
     **1move**
    سحب البوت او ادخال البوت الى روم
    
-   مبرمج البوت :<@452191687159185409>
+   مبرمج البوت :<@389100615432929290>
      prefix = ${prefix}
      ping = ${Date.now() - message.createdTimestamp}`)
 
